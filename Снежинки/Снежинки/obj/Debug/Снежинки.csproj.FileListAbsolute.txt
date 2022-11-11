@@ -1,0 +1,11 @@
+D:\3 курс\Коноплев\Снежинки\Снежинки\bin\Debug\Снежинки.exe.config
+D:\3 курс\Коноплев\Снежинки\Снежинки\bin\Debug\Снежинки.exe
+D:\3 курс\Коноплев\Снежинки\Снежинки\bin\Debug\Снежинки.pdb
+D:\3 курс\Коноплев\Снежинки\Снежинки\obj\Debug\Снежинки.csproj.AssemblyReference.cache
+D:\3 курс\Коноплев\Снежинки\Снежинки\obj\Debug\Снежинки.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\Коноплев\Снежинки\Снежинки\obj\Debug\Снежинки.Form1.resources
+D:\3 курс\Коноплев\Снежинки\Снежинки\obj\Debug\Снежинки.Properties.Resources.resources
+D:\3 курс\Коноплев\Снежинки\Снежинки\obj\Debug\Снежинки.csproj.GenerateResource.cache
+D:\3 курс\Коноплев\Снежинки\Снежинки\obj\Debug\Снежинки.csproj.CoreCompileInputs.cache
+D:\3 курс\Коноплев\Снежинки\Снежинки\obj\Debug\Снежинки.exe
+D:\3 курс\Коноплев\Снежинки\Снежинки\obj\Debug\Снежинки.pdb
